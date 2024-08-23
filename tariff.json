@@ -1,6 +1,6 @@
 {
     "name": "tariff",
-    "version": "1",
+    "version": 1,
     "data": [
         {
             "id" : 1,
